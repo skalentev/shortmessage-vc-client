@@ -1,0 +1,37 @@
+﻿生成启动时间为 2011-11-12 10:49:22。
+     1>项目“d:\Documents\WorkeSpaces\Visual Studio 2010\Projects\ShortMessage\ShortMessage\ShortMessage.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\ShortMessage.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ShortMessage.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ShortMessageDlg.cpp
+         ShortMessageDlg.cpp
+     1>d:\documents\workespaces\visual studio 2010\projects\shortmessage\shortmessage\shortmessagedlg.cpp(270): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+     1>d:\documents\workespaces\visual studio 2010\projects\shortmessage\shortmessage\shortmessagedlg.cpp(274): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\Documents\WorkeSpaces\Visual Studio 2010\Projects\ShortMessage\Debug\ShortMessage.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\ShortMessage.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\Documents\WorkeSpaces\Visual Studio 2010\Projects\ShortMessage\Debug\ShortMessage.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\Documents\WorkeSpaces\Visual Studio 2010\Projects\ShortMessage\Debug\ShortMessage.lib" /MACHINE:X86 Debug\ShortMessage.res
+         Debug\ShortMessage.exe.embed.manifest.res
+         Debug\Comm.obj
+         Debug\ShortMessage.obj
+         Debug\ShortMessageDlg.obj
+         Debug\Sms.obj
+         Debug\SmsTraffic.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ShortMessage.exe.embed.manifest" /manifest Debug\ShortMessage.exe.intermediate.manifest "E:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         ShortMessage.vcxproj -> d:\Documents\WorkeSpaces\Visual Studio 2010\Projects\ShortMessage\Debug\ShortMessage.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\ShortMessage.unsuccessfulbuild”。
+         正在对“Debug\ShortMessage.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“d:\Documents\WorkeSpaces\Visual Studio 2010\Projects\ShortMessage\ShortMessage\ShortMessage.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.20
